@@ -27,9 +27,16 @@ Automated Bitcoin wallet generator that brute forces random wallet addresses.
 ```
 git clone https://github.com/adrijano/Bitbruter.git
 
-cd bitbruter && pip install -r requirements.txt
+cd Bitbruter 
 
-python Bitbruter.py
+pip install -r requirements.txt
+
+ls
+
+chmod +x bitbruter.py
+
+
+python bitbruter.py
 
 ```
 # Proof of Concept
